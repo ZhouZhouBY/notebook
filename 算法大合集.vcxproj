@@ -40,6 +40,7 @@
     <ClCompile Include="翻转链表II.cpp" />
     <ClCompile Include="路径总和.cpp" />
     <ClCompile Include="连续子数组的最大和.cpp" />
+    <ClCompile Include="链表的中间结点.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="k个一组翻转链表.h" />
@@ -61,6 +62,7 @@
     <ClInclude Include="翻转链表II.h" />
     <ClInclude Include="路径总和.h" />
     <ClInclude Include="连续子数组的最大和.h" />
+    <ClInclude Include="链表的中间结点.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

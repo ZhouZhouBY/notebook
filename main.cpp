@@ -17,6 +17,7 @@
 #include "翻转链表II.h"
 #include "有效的括号.h"
 #include "移动零.h"
+#include "链表的中间结点.h"
 #include <vector>
 #include <iostream>
 
@@ -39,6 +40,7 @@ int main() {
 	// DUANSHIHUIWEN::run();						// 段式回文
 	// REVERSELISTII::run();						// 翻转链表II
 	// VALIDKUOHAO::run();							// 有效的括号
-	MOVEZERO::run();
+	// MOVEZERO::run();								// 移动零
+	MIDDLENODE::run();
 	return 0;
 }

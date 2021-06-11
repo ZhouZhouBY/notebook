@@ -84,6 +84,9 @@
     <ClCompile Include="移动零.cpp">
       <Filter>源文件\cpp</Filter>
     </ClCompile>
+    <ClCompile Include="链表的中间结点.cpp">
+      <Filter>源文件\cpp</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LRU.h">
@@ -141,6 +144,9 @@
       <Filter>源文件\h</Filter>
     </ClInclude>
     <ClInclude Include="移动零.h">
+      <Filter>源文件\h</Filter>
+    </ClInclude>
+    <ClInclude Include="链表的中间结点.h">
       <Filter>源文件\h</Filter>
     </ClInclude>
   </ItemGroup>
